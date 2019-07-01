@@ -5,9 +5,9 @@
   </head>
   <body>
   <h2>USD converter:</h2>
-  <form action="" method="post">
+  <form action="convert.jsp" method="post">
     <input type="text" name="rate" value="22000">
-    <input type="text" name="usd" value="usdK" >
+    <input type="text" name="usd" value="usd" >
     <input type="submit">
 
   </form>
